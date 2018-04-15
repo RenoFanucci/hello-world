@@ -1,3 +1,4 @@
 # hello-world
 I'm getting started with GitHub :)
-I'm having the best week ever and its been a while since i said that!
+I'm new to coding but really loving it! Looking to take over the world one web page at a time!
+
